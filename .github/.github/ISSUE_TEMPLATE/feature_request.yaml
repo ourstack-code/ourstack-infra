@@ -1,0 +1,42 @@
+name: ✨ Feature Request
+description: Suggest an idea or improvement for OurStack
+title: "[FEATURE] <your title>"
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea that could make OurStack better? Let us know!
+        Please describe your feature or enhancement clearly.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Feature Summary
+      description: What do you want to see added or improved?
+      placeholder: "I’d like to add support for..."
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why is this feature important?
+      description: What problem would it solve? Who would benefit?
+      placeholder: "It would help me because..."
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Possible Implementation (Optional)
+      description: If you have a rough idea how it could work, share it here.
+      placeholder: "Maybe we could use Terraform module X and patch the Helm chart..."
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I’ve checked for similar feature requests before submitting.
+          required: true
+        - label: I’m open to help with design or implementation.
