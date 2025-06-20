@@ -60,6 +60,8 @@ If you find this project useful or inspiring, I'd love to hear from you.
 Feedback, ideas, and contributions are always welcome.  
 Let’s build this together.
 
+[My linkedin](https://www.linkedin.com/in/evgenii-vinogradov-717926252/)
+
 ---
 
 ## 📜 License
