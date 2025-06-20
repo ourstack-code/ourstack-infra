@@ -1,2 +1,2 @@
-# ourstack-infra
+# ourstack
 Self‑Hosted Production Stack
