@@ -45,7 +45,7 @@ All from **one Git repository**, with **one command**.
 
 > Getting started guide and example stacks coming soon.
 
-In the meantime, stay tuned or [join the discussion](#) to follow development or contribute.
+In the meantime, stay tuned or [join the discussion](https://github.com/ourstack-code/ourstack-infra/discussions/4) to follow development or contribute.
 
 ---
 
