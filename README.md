@@ -15,7 +15,7 @@ Whether you're hosting a Minecraft server, deploying monitoring stacks, or exper
 
 ---
 
-## 🔧 Features
+## 🔧 Features (architecture is still in development)
 
 - **Production-like architecture**, powered by Terraform + Kubernetes + ArgoCD  
 - **Self-hosted and open** — run everything on your own terms  
@@ -26,7 +26,7 @@ Whether you're hosting a Minecraft server, deploying monitoring stacks, or exper
 
 ---
 
-## 📦 What can you run?
+## 📦 What can you run? (in the plans)
 
 With OurStack, you can deploy:
 
